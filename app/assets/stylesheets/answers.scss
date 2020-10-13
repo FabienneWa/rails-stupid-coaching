@@ -1,0 +1,30 @@
+a {
+  font-size: 14px;
+  font-family: 'Montserrat', sans-serif;
+  color: black;
+  background-color: #cdc9c3;
+
+}
+
+h1 {
+  font-size: 18px;
+  font-weight: bold;
+  color: grey;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+
+p {
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 1200px;
+  background-color: #d9e4dd;
+  margin: auto;
+  height: 200px;
+}
